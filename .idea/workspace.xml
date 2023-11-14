@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6947a4a1-d3d8-4b9b-a5ba-6237cce2b26e" name="Changes" comment="Lab 2 zad domowe pętla while">
+      <change beforePath="$PROJECT_DIR$/laboratorium/lab 3  zad 1 łancuchy.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab 3/lab 3  zad 1 łancuchy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorium/lab 3 zad 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab 3/lab 3 zad 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorium/lab 3 zad 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab 3/lab 3 zad 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorium/lab 3 zad 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab 3/lab 3 zad 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorium/lab 3 zad 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab 3/lab 3 zad 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorium/wjesciowka lab 3 zad 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab 3/wjesciowka lab 3 zad 2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Hubert/PycharmProjects/laboratorium",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 2 zad domowe pętla while" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 2 zad domowe pętla while" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_1_domowe__ptla_while_.coverage" NAME="lab 2 zad 1 domowe (pętla while) Coverage Results" MODIFIED="1699551848645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_2.coverage" NAME="lab 2 zad 2 Coverage Results" MODIFIED="1699301581174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_1_domowe.coverage" NAME="lab 2 zad 1 domowe Coverage Results" MODIFIED="1699304187999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_3_domowe__ptla_while_.coverage" NAME="lab 2 zad 3 domowe (pętla while) Coverage Results" MODIFIED="1699552456342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_1_zad_3_domowe.coverage" NAME="lab 1 zad 3 domowe Coverage Results" MODIFIED="1699647304252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_5_domowe__ptla_while_.coverage" NAME="lab 2 zad 5 domowe (pętla while) Coverage Results" MODIFIED="1699816339846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_3.coverage" NAME="lab 2 zad 3 Coverage Results" MODIFIED="1699302203946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_1_zad_2_domowe.coverage" NAME="lab 1 zad 2 domowe Coverage Results" MODIFIED="1699303256518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_1_zad_1_domowe.coverage" NAME="lab 1 zad 1 domowe Coverage Results" MODIFIED="1699302980189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_1.coverage" NAME="lab 2 zad 1 Coverage Results" MODIFIED="1699816314453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_2_domowe.coverage" NAME="lab 2 zad 2 domowe Coverage Results" MODIFIED="1699304204171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+    <SUITE FILE_PATH="coverage/laboratorium$lab_2_zad_4_domowe__ptla_while_.coverage" NAME="lab 2 zad 4 domowe (pętla while) Coverage Results" MODIFIED="1699552687192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratorium" />
+  </component>
+</project>
